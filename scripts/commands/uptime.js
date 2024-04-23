@@ -3,7 +3,7 @@ module.exports.config = {
 	version: "0.0.2",
 	permission: 0,
   prefix: true,
-	credits: "Nayan",
+	credits: "Soad",
 	description: "uptime",
 	category: "admin",
 	usages: "",
@@ -120,8 +120,8 @@ registerFont(__dirname + `/nayan/CaviarDreams.ttf`, {
     });
     ctx.textAlign = "start";
     ctx.font = "45px time";
-    ctx.fillText("@" + "www.xnxx.com169", 250, 515)
-    ctx.fillText("@" + "MOHAMMAD-NAYAN", 250, 575)
+    ctx.fillText("@" + "toxic71soad", 250, 515)
+    ctx.fillText("@" + "SM-SOAD", 250, 575)
    //ctx.fillText("@" + "DVFB.VietLe.pro", 405, 750)
     ctx.restore();
     ctx.save();
